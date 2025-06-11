@@ -38,8 +38,10 @@ header nav ul{
 header nav ul li{
     display: inline;
     margin-right: 10px;
-    padding: 5px;
-    border: 1px solid rgb(0, 0, 0);
+}
+aside div ul{
+    list-style: none;
+    padding: 0;
 }
 header,main,aside,footer{
     background-color: rgb(255, 255, 255);
